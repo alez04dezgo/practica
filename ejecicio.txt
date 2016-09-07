@@ -1,0 +1,7 @@
+programa que determina y pida un numero y si nes par o impar #18
+
+a=int (input ("ingrese un numero\n"))
+if (a%==0):
+   print(str (a) + "es par")
+else:
+       print (str (a) + "es impar"
